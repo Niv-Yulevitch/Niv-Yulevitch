@@ -88,6 +88,6 @@ I love to building robust backends that do all the heavy lifting for your app or
 
 </td><td valign="top" width="33%">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niv-yulevitch&theme=dark" alt="niv-yulevitch" align="left" style="width: 100%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niv-yulevitch&hide_border=true&layout=compact" alt="niv-yulevitch" align="left" style="width: 100%" />
 
 </td></tr></table>  
