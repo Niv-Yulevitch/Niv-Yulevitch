@@ -78,29 +78,8 @@ I love to building robust backends that do all the heavy lifting for your app or
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=niv-yulevitch&show_icons=true&theme=dark&locale=en&layout=compact" alt="niv-yulevitch" /></p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Niv-Yulevitch&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=niv-yulevitch&show_icons=true&theme=dark&locale=en" alt="niv-yulevitch" /></p>
 
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niv-Yulevitch&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Niv-Yulevitch&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niv-yulevitch&theme=dark" alt="niv-yulevitch" /></p>
