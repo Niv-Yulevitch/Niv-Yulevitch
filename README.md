@@ -80,14 +80,14 @@ I love to building robust backends that do all the heavy lifting for your app or
 ## Github Stats  
 <table><tr><td valign="top" width="33%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Niv-Yulevitch&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Niv-Yulevitch&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="34%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niv-Yulevitch&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Niv-Yulevitch&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="33%">
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niv-yulevitch&hide_border=true&layout=compact" alt="niv-yulevitch" align="left" style="width: 100%" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=niv-yulevitch&hide_border=true&layout=compact&theme=dark" alt="niv-yulevitch" align="left" style="width: 100%" />
 
 </td></tr></table>  
